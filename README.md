@@ -4,6 +4,9 @@
 
 
 PROJETO: DOS ESP32 IDE
+
+<img width="109" height="125" alt="Captura de tela de 2026-08-12 15-19-27" src="https://github.com/user-attachments/assets/7838005a-e9c1-403d-b005-c2a7f8133001" />
+
 --------------------------------------------------
 Objetivo:
 Criar uma IDE nativa para o MS-DOS que permite escrever codigos,
