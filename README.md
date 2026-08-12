@@ -1,5 +1,8 @@
 # ESP32_IDE_MS-DOS_COM
 
+<img width="1024" height="1024" alt="Gemini_Generated_Image_y7w2yuy7w2yuy7w2" src="https://github.com/user-attachments/assets/1796cfe5-b9d3-4e6c-a08c-59285922b2b2" />
+
+
 PROJETO: DOS ESP32 IDE
 --------------------------------------------------
 Objetivo:
